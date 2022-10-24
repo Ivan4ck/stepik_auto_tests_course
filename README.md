@@ -1,2 +1,3 @@
 # stepik_auto_tests_course
-deasghdsrfheh
+Hello
+24/10/22
